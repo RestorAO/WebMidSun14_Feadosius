@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Sergey",
+            "surname": "Belousov",
+            "photo": "",
+            "balance": 500
+        },
+        {
+            "id": 2,
+            "name": "Beyonce",
+            "surname": "Bulkina",
+            "photo": "",
+            "balance": 150000000000
+        },
+        {
+            "id": 3,
+            "name": "Lady",
+            "surname": "Gaga",
+            "photo": "",
+            "balance": 9999999999999999991500
+        },
+        {
+            "id": 4,
+            "name": "Britney",
+            "surname": "Spears",
+            "photo": "",
+            "balance": 112312312312312500
+        },
+        {
+            "id": 5,
+            "name": "Adele",
+            "surname": "Feadosiusovna",
+            "photo": "",
+            "balance": 1123123122353454500
+        },
+        {
+            "id": 6,
+            "name": "Spice",
+            "surname": "Girls",
+            "photo": "",
+            "balance": 1563856474354686768374500
+        },
+        {
+            "id": 7,
+            "name": "Michale",
+            "surname": "Jaskon",
+            "photo": "",
+            "balance": 150068473640578698075695830769
+        },
+        {
+            "id": 8,
+            "name": "Jastin",
+            "surname": "Biba",
+            "photo": "",
+            "balance": -132426325436545500
+        },
+        {
+            "id": 9,
+            "name": "Bruno",
+            "surname": "Mars",
+            "photo": "",
+            "balance": 1500235789453652
+        },
+        {
+            "id": 10,
+            "name": "Ramstain",
+            "surname": "Pivovich",
+            "photo": "",
+            "balance": 15004158945378023078930789234507892345789234507823457834507893450789234507892345078950789
+        }
+    ]
+}
