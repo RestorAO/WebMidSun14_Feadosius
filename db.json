@@ -2,146 +2,155 @@
     "users": [
         {
             "id": 1,
-            "name": "Sergey",
+            "name": "Andrey",
             "surname": "Belousov",
             "photo": "",
-            "balance": 500
+            "balance": 1500
         },
         {
             "id": 2,
-            "name": "Beyonce",
-            "surname": "Bulkina",
+            "name": "Alexey",
+            "surname": "Ivanov",
             "photo": "",
-            "balance": 150000000000
+            "balance": 2300
         },
         {
             "id": 3,
-            "name": "Lady",
-            "surname": "Gaga",
+            "name": "Dmitry",
+            "surname": "Petrov",
             "photo": "",
-            "balance": 9999999999999999991500
+            "balance": 1750
         },
         {
             "id": 4,
-            "name": "Britney",
-            "surname": "Spears",
+            "name": "Anna",
+            "surname": "Sidorova",
             "photo": "",
-            "balance": 112312312312312500
+            "balance": 3000
         },
         {
             "id": 5,
-            "name": "Adele",
-            "surname": "Feadosiusovna",
+            "name": "Olga",
+            "surname": "Kuznetsova",
             "photo": "",
-            "balance": 1123123122353454500
+            "balance": 1200
         },
         {
             "id": 6,
-            "name": "Spice",
-            "surname": "Girls",
+            "name": "Ivan",
+            "surname": "Smirnov",
             "photo": "",
-            "balance": 1563856474354686768374500
+            "balance": 2500
         },
         {
             "id": 7,
-            "name": "Michale",
-            "surname": "Jaskon",
+            "name": "Elena",
+            "surname": "Popova",
             "photo": "",
-            "balance": 150068473640578698075695830769
+            "balance": 1800
         },
         {
             "id": 8,
-            "name": "Jastin",
-            "surname": "Biba",
+            "name": "Pavel",
+            "surname": "Volkov",
             "photo": "",
-            "balance": -132426325436545500
+            "balance": 2100
         },
         {
             "id": 9,
-            "name": "Bruno",
-            "surname": "Mars",
+            "name": "Tatiana",
+            "surname": "Kozlova",
             "photo": "",
-            "balance": 1500235789453652
+            "balance": 1400
         },
         {
             "id": 10,
-            "name": "Ramstain",
-            "surname": "Pivovich",
+            "name": "Nikolay",
+            "surname": "Morozov",
             "photo": "",
-            "balance": 15004158945378023078930789234507892345789234507823457834507893450789234507892345078950789
+            "balance": 1900
         }
     ],
-    "products":[
+    "products": [
         {
             "id": 1,
-            "name": "Попки от огурцов",
-            "price": 100,
+            "name": "Смартфон Xiaomi Redmi Note 10",
+            "price": 200,
             "photo": "",
-            "desc": ""
+            "desc": "Смартфон с AMOLED-дисплеем 6.43 дюйма, 48 МП камера и батареей 5000 мАч.",
+            "author_id": 1
         },
-                {
+        {
             "id": 2,
-            "name": "Ногти кота",
-            "price": 60,
+            "name": "Ноутбук Lenovo IdeaPad 3",
+            "price": 600,
             "photo": "",
-            "desc": ""
+            "desc": "15.6-дюймовый ноутбук с процессором AMD Ryzen 5, 8 ГБ ОЗУ и SSD на 256 ГБ.",
+            "author_id": 1
         },
         {
             "id": 3,
-            "name": "Яйцо попугая",
-            "price": 500,
+            "name": "Наушники Sony WH-1000XM4",
+            "price": 350,
             "photo": "",
-            "desc": ""
+            "desc": "Беспроводные наушники с шумоподавлением и временем работы до 30 часов.",
+            "author_id": 9
         },
         {
             "id": 4,
-            "name": "Жареные лапки вороны",
-            "price": 10000,
+            "name": "Фитнес-браслет Xiaomi Mi Band 6",
+            "price": 50,
             "photo": "",
-            "desc": ""
+            "desc": "Фитнес-трекер с AMOLED-дисплеем, мониторингом сна и пульса.",
+            "author_id": 8
         },
         {
             "id": 5,
-            "name": "Навоз",
-            "price": 7,
+            "name": "Кофемашина DeLonghi EC685",
+            "price": 250,
             "photo": "",
-            "desc": ""
+            "desc": "Компактная кофемашина для приготовления эспрессо и капучино.",
+            "author_id": 6
         },
         {
             "id": 6,
-            "name": "Шпилька для локтя",
-            "price": 1000,
+            "name": "Электросамокат Xiaomi Mi Electric Scooter 3",
+            "price": 450,
             "photo": "",
-            "desc": ""
+            "desc": "Электросамокат с запасом хода до 30 км и максимальной скоростью 25 км/ч.",
+            "author_id": 2
         },
         {
             "id": 7,
-            "name": "Левая ноздря",
-            "price": 90,
+            "name": "Умная колонка Яндекс.Станция Мини",
+            "price": 100,
             "photo": "",
-            "desc": ""
+            "desc": "Умная колонка с голосовым помощником Алисой и поддержкой потоковой музыки.",
+            "author_id": 3
         },
         {
             "id": 8,
-            "name": "Волос Beyonce",
-            "price": 1001020,
+            "name": "Электрочайник Bosch TWK 8611",
+            "price": 70,
             "photo": "",
-            "desc": ""
+            "desc": "Электрочайник с мощностью 2400 Вт и объемом 1.7 литра.",
+            "author_id": 9
         },
         {
             "id": 9,
-            "name": "Младший помошник - страшего стажера уборщика - младшего менеджера по продажам",
-            "price": 1300,
+            "name": "Робот-пылесос Xiaomi Mi Robot Vacuum-Mop 2",
+            "price": 300,
             "photo": "",
-            "desc": ""
+            "desc": "Робот-пылесос с функцией мытья полов и временем работы до 110 минут.",
+            "author_id": 4
         },
         {
             "id": 10,
-            "name": "Мазь для подколенной чашечки",
-            "price": 100,
+            "name": "Монитор Samsung Odyssey G5",
+            "price": 400,
             "photo": "",
-            "desc": ""
+            "desc": "Игровой монитор с диагональю 27 дюймов, разрешением 2560x1440 и частотой 144 Гц.",
+            "author_id": 5
         }
-    
     ]
 }
